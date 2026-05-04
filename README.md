@@ -1,4 +1,4 @@
-# Sales Insight Dashboard using PowerBI
+# Campaign Performance (sales) Dashboard using PowerBI
 ## Sales insights project Powerbi Dashboard
 
 
